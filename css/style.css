@@ -3,7 +3,10 @@
     align-items: center;
     text-align: center;
     margin: 0px;
+    width: 50%;
+    border: 1px solid black;
 }
+
 
 #titulo{
     justify-content: center;
@@ -11,5 +14,5 @@
 }
 
 #titulo h1{
-    color: blue;
+    color: rgb(240, 47, 47);
 }
